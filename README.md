@@ -8,5 +8,7 @@
 
 * open project `tanio_202053010_aplikasi_note_crud` ketik `flutter run`
 
+### Screenshot
+[![image.png](https://i.postimg.cc/cJzHvpyH/image.png)](https://postimg.cc/v1WMjSmF)
 
 
